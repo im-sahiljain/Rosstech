@@ -14,12 +14,14 @@ Follow these steps to set up the project on your local machine:
 
 2. **Install dependencies:**
 using npm:
-  ```sh
+  ```
     npm install
+```
 
-3. To start the development server, run the following command:
-  ```sh
-  npm run dev
-
+3. **To start the development server, run the following command:**
+ 
+  ```
+npm run dev
+```
 
 
