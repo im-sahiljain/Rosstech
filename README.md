@@ -19,5 +19,9 @@ using npm:
     Copy code
     npm install
 
+3. To start the development server, run the following command:
+  ```sh
+  npm run dev
+
 
 
